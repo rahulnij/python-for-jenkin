@@ -1,4 +1,8 @@
-"""Testing modules."""
+"""
+Jenkin not working with current user and shell??????.
+
+Testing modules.
+"""
 
 
 def func(x):
