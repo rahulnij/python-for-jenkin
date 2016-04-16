@@ -12,7 +12,7 @@ def func(x):
 
 def test_not_equal_to():
     """Test for 4 == 5."""
-    assert func(3) != 5
+    assert func(2) != 5
 
 
 def test_equal_to():
