@@ -1,3 +1,6 @@
--r ../practice-python/common-requirement.txt
+autopep8==1.2.2
+pep8==1.7.0
+eradicate==0.1.6
+coverage==4.1b2
 pytest==2.9.1
 nose==1.3.7
