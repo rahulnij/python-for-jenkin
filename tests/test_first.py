@@ -2,7 +2,7 @@ def func(x):
     """
     add 1 to x
     """
-    return x + 1
+    return x + 3
 
 
 def test_answer():
